@@ -34,6 +34,7 @@ Here are some of the technologies and tools I work with:
 ![ScallaDb](https://img.shields.io/badge/Scylla%20DB-6CD5E7?style=flat&logo=scylladb&logoColor=000)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Dbeaver](https://img.shields.io/badge/DBeaver-000000?style=flat&logo=dbeaver&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat)
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
