@@ -7,7 +7,7 @@ Here are some of the technologies and tools I work with:
 
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,ts,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,ts,js)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
