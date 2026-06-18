@@ -7,7 +7,7 @@ Here are some of the technologies and tools I work with:
 
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,py,ts,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,go)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -53,6 +53,7 @@ Here are some of the technologies and tools I work with:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Meilisearch](https://img.shields.io/badge/-Meilisearch-FF5CAA?style=flat&logo=meilisearch&logoColor=white)
 
 
 
